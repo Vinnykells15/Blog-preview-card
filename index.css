@@ -88,7 +88,8 @@ p {
 
 @media screen {
   body {
-    margin-left: 2.5rem;
+    margin-left: 1.5rem;
+    margin-right: 2.5rem;
     margin-top: 7rem;
   }
 
