@@ -79,4 +79,20 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
+.attribution a:hover {
+  text-decoration: underline;
+}
+
+@media screen {
+  body {
+    margin-left: 3rem;
+    margin-top: 7rem;
+  }
+
+  .attribution {
+    font-size: 11.5px;
+  }
 }
