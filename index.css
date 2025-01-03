@@ -86,7 +86,7 @@ p {
   text-decoration: underline;
 }
 
-@media screen {
+@media (max-width: 350px) {
   body {
     margin-left: 1.5rem;
     margin-right: 2.5rem;
