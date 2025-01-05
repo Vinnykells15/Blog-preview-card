@@ -86,7 +86,7 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 375px) {
   body {
     margin-left: 1.5rem;
     margin-right: 2.5rem;
