@@ -2,6 +2,9 @@ body {
   background-color: rgb(244, 208, 78);
   font-family: "Figtree";
   margin: 4rem;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
 }
 
 @font-face {
